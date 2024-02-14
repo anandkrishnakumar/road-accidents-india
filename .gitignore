@@ -158,3 +158,17 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+.DS_Store
+data/GOI.csv
+data/india.csv
+data/List of cities with population above 1,000,000.csv
+data/List of cities with population from 100,000 to 1,000,000.csv
+data/merged_data.csv
+data/Monthly_Rainfall_From_1901_to_2017.csv
+data/only_road_accidents_data_month2.csv
+data/only_road_accidents_data3.csv
+data/population.csv
+data/RS_Session_260_AU_1534_1.csv
+data/scheduled-caste-population.csv
+data/scheduled-tribes-population.csv
+data/student-enrollment.csv
